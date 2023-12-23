@@ -3,6 +3,12 @@ github_commit.ipynb
 
 # Assignment files
 *.zip
+imagenet_val_25.npz
+cifar-10-batches-py
+assignment2/cs231n/build
+assignment2/cs231n/im2col_cython.cpython*
+assignment3/cs231n/datasets/coco_captioning
+assignment3/cs231n/datasets/MNIST_data
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
