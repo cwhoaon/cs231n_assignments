@@ -1,6 +1,9 @@
 # For github commit
 github_commit.ipynb
 
+# Assignment files
+*.zip
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
